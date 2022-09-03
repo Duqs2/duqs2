@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Estudando JavaScript & //Front-end!
+# ESTUDANDO!
 
-console.log("TA DIFICIL"){
-
-}
+- JavaScript
+- //Front-end
+- SQL on MYSQL 
 
 ☣
+
