@@ -3,8 +3,7 @@
 # ESTUDANDO!
 
 - JavaScript
-- //Front-end
-- SQL on MYSQL 
+- SQL 
 
 ☣
 
