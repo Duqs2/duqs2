@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-### Estudando JavaScrpit
+Estudando JavaScrpit
 
 ☣⚠
