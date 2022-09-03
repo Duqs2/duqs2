@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-Estudando JavaScrpit
+Estudando JavaScript & //Front-end!
 
-☣⚠
+console.log("TA DIFICIL"){
+
+}
+
+☣
